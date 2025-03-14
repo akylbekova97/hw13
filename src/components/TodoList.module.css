@@ -1,0 +1,21 @@
+.todo{
+    width: 700px;
+    height: 60px;
+    border: 2px solid rgb(82, 82, 170) ;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px rgb(158, 156, 156);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8px;
+}
+.title{
+    width: 510px;
+}
+.date{
+    width: 130px;
+    height: 40px;
+    padding-top: 5px;
+    border: 1px solid rgb(82, 82, 170) ;
+    border-radius: 10px;
+    cursor: pointer;
+}

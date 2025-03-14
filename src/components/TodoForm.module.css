@@ -1,0 +1,24 @@
+.container {
+	width: 800px;
+	height: 80px;
+    display: flex;
+    align-items: center;
+	border: 3px solid rgb(82, 82, 170);
+	border-radius: 10px;
+    box-shadow: 4px 4px 8px rgb(158, 156, 156);
+}
+.title {
+	width: 250px;
+	height: 40px;
+	border: 2px solid rgb(82, 82, 170);
+	border-radius: 10px;
+	margin: 0 15px;
+    text-align: center;
+}
+.btn {
+	width: 100px;
+	height: 40px;
+	border: 2px solid rgb(82, 82, 170);
+	border-radius: 10px;
+	margin: 0 15px;
+}
